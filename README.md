@@ -8,21 +8,21 @@ This project automatically generates a timetable by taking the required inputs f
 
 <table style="border: 1px solid black;">
             <tr>
-                <td  style="border: 1px solid black ;">
-                </td>
-                <td  style="border: 1px solid black ;">
+                <tr  style="border: 1px solid black ;">
+                </tr>
+                <tr  style="border: 1px solid black ;">
                     <img src="https://user-images.githubusercontent.com/106223361/186089989-c18252bc-752d-4b8f-a772-c8095008c8ec.png"   width="800">
-                </td>
-                <td  style="border: 1px solid black ;">
-                </td>
-                <td  style="border: 1px solid black ;">
+                </tr>
+                <tr style="border: 1px solid black ;">
+                </tr>
+                <tr  style="border: 1px solid black ;">
                     <img src="https://user-images.githubusercontent.com/106223361/186090138-2e2597ef-1f87-47f2-b0cd-48feb04785d8.png"   width="800">
-                </td>
-                 <td  style="border: 1px solid black ;">
-                </td>
-                <td  style="border: 1px solid black ;">
+                </tr>
+                 <tr  style="border: 1px solid black ;">
+                </tr>
+                <tr  style="border: 1px solid black ;">
                     <img src="https://user-images.githubusercontent.com/106223361/186090245-7962c3ff-9378-4f1b-bc34-60558940db64.png"   width="800">
-                </td>
+                </tr>
             </tr>
         </table>
         
