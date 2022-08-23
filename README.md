@@ -31,21 +31,21 @@ This project automatically generates a timetable by taking the required inputs f
 
 <table style="border: 1px solid black;">
             <tr>
-                <td  style="border: 1px solid black ;">
-                </td>
-                <td  style="border: 1px solid black ;">
+                <tr  style="border: 1px solid black ;">
+                </tr>
+                <tr  style="border: 1px solid black ;">
                     <img src="https://user-images.githubusercontent.com/106223361/186090388-2d8f7fcf-8de4-4712-b895-95ba05d0556c.png"   width="800">
-                </td>
-                <td  style="border: 1px solid black ;">
-                </td>
-                <td  style="border: 1px solid black ;">
+                </tr>
+                <tr  style="border: 1px solid black ;">
+                </tr>
+                <tr  style="border: 1px solid black ;">
                     <img src="https://user-images.githubusercontent.com/106223361/186090522-9afc549b-c215-44e3-ac23-a0565f52dc75.png"   width="800">
-                </td>
-                 <td  style="border: 1px solid black ;">
-                </td>
-                <td  style="border: 1px solid black ;">
+                </tr>
+                 <tr  style="border: 1px solid black ;">
+                </tr>
+                <tr  style="border: 1px solid black ;">
                     <img src="https://user-images.githubusercontent.com/106223361/186090709-c495550c-9cdf-47de-a635-519ed5bc6766.png"   width="800">
-                </td>
+                </tr>
             </tr>
         </table>
         
